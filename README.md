@@ -5,6 +5,7 @@ A real-time object recognition application using [Google's TensorFlow Object Det
 # OD_demo 
 A separate script that runs inference on video from path, specified within the code.
 Path to pretrained model is also specified  within the code.
+OD_demo requires object_detection1 to be part of the local repo. 
 
 ## Getting Started
 1. `conda env create -f environment.yml`
